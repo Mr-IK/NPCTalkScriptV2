@@ -1,0 +1,12 @@
+name: NPCTalkScriptV2
+version: '${project.version}'
+main: jp.mkserver.npctalkscriptv2.NPCTalkScriptV2
+api-version: 1.17
+authors: [ Mr_IK ]
+description: NPCTalkScript Version2
+depend: [Citizens,Vault]
+commands:
+  nts:
+    description: NPCTalkScript
+    usage: /<command>
+    default: op

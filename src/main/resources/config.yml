@@ -1,0 +1,9 @@
+#必須: データベース設定
+db:
+  sqlite: false
+  mysql:
+    host: localhost
+    port: 3306
+    user: root
+    pass: password
+    db: ntscript_db
